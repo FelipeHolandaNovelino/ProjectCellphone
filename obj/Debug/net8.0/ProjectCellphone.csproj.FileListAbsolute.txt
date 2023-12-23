@@ -1,0 +1,14 @@
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\bin\Debug\net8.0\ProjectCellphone.exe
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\bin\Debug\net8.0\ProjectCellphone.deps.json
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\bin\Debug\net8.0\ProjectCellphone.runtimeconfig.json
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\bin\Debug\net8.0\ProjectCellphone.dll
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\bin\Debug\net8.0\ProjectCellphone.pdb
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\obj\Debug\net8.0\ProjectCellphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\obj\Debug\net8.0\ProjectCellphone.AssemblyInfoInputs.cache
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\obj\Debug\net8.0\ProjectCellphone.AssemblyInfo.cs
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\obj\Debug\net8.0\ProjectCellphone.csproj.CoreCompileInputs.cache
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\obj\Debug\net8.0\ProjectCellphone.dll
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\obj\Debug\net8.0\refint\ProjectCellphone.dll
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\obj\Debug\net8.0\ProjectCellphone.pdb
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\obj\Debug\net8.0\ProjectCellphone.genruntimeconfig.cache
+C:\Users\holan\OneDrive\Área de Trabalho\ProjectCellphone\obj\Debug\net8.0\ref\ProjectCellphone.dll
